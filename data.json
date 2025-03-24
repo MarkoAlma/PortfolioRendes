@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "title": "IngatlanIroda",
+        "photo_url": "ingatlaniroda.png",
+        "repo-link": "https://github.com/MarkoAlma/ingatlanIroda",
+        "topics": [
+            "fetch API",
+            "Set adatszerkezet",
+            "Array.from()",
+            "radió gombok használata",
+            "checkboxok használata",
+            "select használata"
+        ],
+        "site-link": "https://markoalma.github.io/ingatlanIroda/"
+    },
+    {
+        "id": "2",
+        "title": "Autokolcsonzo",
+        "photo_url": "autokolcsonzo.png",
+        "repo-link": "https://github.com/MarkoAlma/Autokolcsonzo",
+        "topics": [
+            "fetch API",
+            "checkboxok használata",
+            "Reszponzív design",
+            "Javascript függvények"
+        ],
+        "site-link": "https://markoalma.github.io/Autokolcsonzo/"
+    },
+    {
+        "id": "3",
+        "title": "Users",
+        "photo_url": "users.png",
+        "repo-link": "https://github.com/MarkoAlma/users",
+        "topics": [
+            "fetch API",
+            "Set adatszerkezet",
+            "Array.from()",
+            "radió gombok használata",
+            "checkboxok használata",
+            "select használata"
+        ],
+        "site-link": "https://markoalma.github.io/users/"
+    },
+    {
+        "id": "4",
+        "title": "Kartya",
+        "photo_url": "kartya.png",
+        "repo-link": "https://github.com/MarkoAlma/kartya",
+        "topics": [
+            "fetch API",
+            "Set adatszerkezet",
+            "Array.from()",
+            "radió gombok használata",
+            "checkboxok használata",
+            "select használata"
+        ],
+        "site-link": "https://markoalma.github.io/kartya/"
+    },
+    {
+        "id": "5",
+        "title": "Searcher",
+        "photo_url": "searcher.png",
+        "repo-link": "https://github.com/MarkoAlma/searcher",
+        "topics": [
+            "fetch API",
+            "Set adatszerkezet",
+            "Array.from()",
+            "radió gombok használata",
+            "checkboxok használata",
+            "select használata"
+        ],
+        "site-link": "https://markoalmasearcher.netlify.app/"
+    }
+]
