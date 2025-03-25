@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "IngatlanIroda",
-        "photo_url": "ingatlaniroda.png",
+        "photo_url": "https://res.cloudinary.com/dwv39ajhl/image/upload/v1740729370/ingatlanIroda_kvpdpw.png",
         "repo-link": "https://github.com/MarkoAlma/ingatlanIroda",
         "topics": [
             "fetch API",
@@ -17,7 +17,7 @@
     {
         "id": "2",
         "title": "Autokolcsonzo",
-        "photo_url": "autokolcsonzo.png",
+        "photo_url": "https://res.cloudinary.com/dwv39ajhl/image/upload/v1740729077/Autokolcsonzo_difawd.png",
         "repo-link": "https://github.com/MarkoAlma/Autokolcsonzo",
         "topics": [
             "fetch API",
@@ -30,7 +30,7 @@
     {
         "id": "3",
         "title": "Users",
-        "photo_url": "users.png",
+        "photo_url": "https://res.cloudinary.com/dwv39ajhl/image/upload/v1740729371/users_bnnwwr.png",
         "repo-link": "https://github.com/MarkoAlma/users",
         "topics": [
             "fetch API",
@@ -45,7 +45,7 @@
     {
         "id": "4",
         "title": "Kartya",
-        "photo_url": "kartya.png",
+        "photo_url": "https://res.cloudinary.com/dwv39ajhl/image/upload/v1740729947/products_fdxor0.png",
         "repo-link": "https://github.com/MarkoAlma/kartya",
         "topics": [
             "fetch API",
@@ -60,7 +60,7 @@
     {
         "id": "5",
         "title": "Searcher",
-        "photo_url": "searcher.png",
+        "photo_url": "https://res.cloudinary.com/dwv39ajhl/image/upload/v1740729371/searcher_rfihey.png ",
         "repo-link": "https://github.com/MarkoAlma/searcher",
         "topics": [
             "fetch API",
